@@ -1,0 +1,36 @@
+{
+  "name": "angular2-examples",
+  "version": "1.0.0",
+  "description": "Angular2 example applications",
+  "main": "server/express-server-example.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "connect-history-api-fallback": "^1.2.0",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "morgan": "^1.7.0",
+    "webpack": "^1.13.0",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngularClass/angular2-examples.git"
+  },
+  "keywords": [
+    "angular2",
+    "example",
+    "tutorial",
+    "howto",
+    "how-to"
+  ],
+  "author": "AngularClass",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/AngularClass/angular2-examples/issues"
+  },
+  "homepage": "https://github.com/AngularClass/angular2-examples#readme"
+}
