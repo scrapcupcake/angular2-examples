@@ -4,4 +4,6 @@ These are Angular 2 examples that you're able to grok different patterns done in
 
 for the server please run
 `npm install`
-`node server/express-server-example.js`
+`npm start`
+
+Then navigate a browser to http://localhost:3001
